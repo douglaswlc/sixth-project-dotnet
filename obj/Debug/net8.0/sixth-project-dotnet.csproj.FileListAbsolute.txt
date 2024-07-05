@@ -1,0 +1,15 @@
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/bin/Debug/net8.0/sixth-project-dotnet
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/bin/Debug/net8.0/sixth-project-dotnet.deps.json
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/bin/Debug/net8.0/sixth-project-dotnet.runtimeconfig.json
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/bin/Debug/net8.0/sixth-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/bin/Debug/net8.0/sixth-project-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.AssemblyInfoInputs.cache
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.AssemblyInfo.cs
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.csproj.CoreCompileInputs.cache
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.sourcelink.json
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/refint/sixth-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/sixth-project-dotnet.genruntimeconfig.cache
+/Users/douglaswillian/Documents/Estudos/sixth-project-dotnet/obj/Debug/net8.0/ref/sixth-project-dotnet.dll
